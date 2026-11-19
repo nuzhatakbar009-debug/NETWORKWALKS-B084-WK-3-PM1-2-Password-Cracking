@@ -141,6 +141,19 @@ We opened the encrypted file `/downloads/My Locked PDF1.pdf` and entered the pas
 
 ---
 
+###   2  nd   pdf    Captured Flag
+
+
+
+---
+
+![](https://github.com/nuzhatakbar009-debug/NETWORKWALKS-B084-WK-3-PM1-2-Password-Cracking/blob/main/screenshot-2.png)
+
+---
+
+
+
+
 # 🔓 PM2 - Password Cracking with Networkwalks Tools
 
 ---
