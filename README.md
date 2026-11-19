@@ -236,34 +236,12 @@ We started the attack. The tool tried different passwords until it found the mat
 ![](https://github.com/nuzhatakbar009-debug/NETWORKWALKS-B084-WK-3-PM1-2-Password-Cracking/blob/main/screenshot-4.png)
 
 ---
-
-We copied and saved the shown password in the txt file **`/output_files/password_4.txt`**.
-
----
-
-## 👣 Step 8
-
-We opened the locked PDF file and entered the cracked password **`password1`**.
-
----
-
-![2_step_8.png](/screenshots/2_step_8.png)
-
----
-
-## 👣 Step 9
-
-We validated the entered password and the locked PDF file opened successfully.
-
----
-
-![2_step_9.png](/screenshots/2_step_9.png)
+![](https://github.com/nuzhatakbar009-debug/NETWORKWALKS-B084-WK-3-PM1-2-Password-Cracking/blob/main/screenshot-5.png)
 
 ---
 
 ### Captured Flag
 
-The captured flag is **`nw{networkwalks_flag1_jtr_270521_1}`**.
 
 ---
 
@@ -271,13 +249,6 @@ The captured flag is **`nw{networkwalks_flag1_jtr_270521_1}`**.
 
 ---
 
-## Project Short Video
-
-We recorded a short video of the project completion.
-
-https://github.com/user-attachments/assets/61498543-e3fa-4762-a4cc-ce149b9cbfc8
-
----
 
 # 💡 What I practiced
 
