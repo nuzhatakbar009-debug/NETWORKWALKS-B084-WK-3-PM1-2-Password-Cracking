@@ -88,8 +88,8 @@ The executable file **john.exe** is located in the run folder:
 ````
 
 ---
+![](https://github.com/nuzhatakbar009-debug/NETWORKWALKS-B084-WK-3-PM1-2-Password-Cracking/blob/main/Screenshot%207.png)
 
-![1_step_2.png](/screenshots/1_step_2.png)
 
 ---
 ![1_flag3.png](/screenshots/1_falg3.png)
