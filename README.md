@@ -99,8 +99,7 @@ We open the hash website (Online HashCrack) in a browser.
 We uploaded the file `/downloads/My Locked PDF1.pdf` and got its hash. We copied the hash and saved in the text file `/output_files/hash1.txt`. 
 
 ---
-
-![1_step_3.png](/screenshots/1_step_3.png)
+![](https://github.com/nuzhatakbar009-debug/NETWORKWALKS-B084-WK-3-PM1-2-Password-Cracking/blob/main/Screenshot%208.png)
 ---
 
 # 🔓 PM2 - Password Cracking with Networkwalks Tools
