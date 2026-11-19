@@ -137,7 +137,7 @@ We opened the encrypted file `/downloads/My Locked PDF1.pdf` and entered the pas
 
 ---
 
-![](https://github.com/nuzhatakbar009-debug/NETWORKWALKS-B084-WK-3-PM1-2-Password-Cracking/blob/main/Screenshot%2011.png)
+![](https://github.com/nuzhatakbar009-debug/NETWORKWALKS-B084-WK-3-PM1-2-Password-Cracking/blob/main/Screenshot%201.jpeg)
 
 ---
 
