@@ -248,7 +248,12 @@ We started the attack. The tool tried different passwords until it found the mat
 
 
 ---
+![](https://github.com/nuzhatakbar009-debug/NETWORKWALKS-B084-WK-3-PM1-2-Password-Cracking/blob/main/screenshot-15.png)
 
+---
+![](https://github.com/nuzhatakbar009-debug/NETWORKWALKS-B084-WK-3-PM1-2-Password-Cracking/blob/main/screenshot-15.png)
+
+---
 
 # 💡 What I practiced
 
