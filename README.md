@@ -208,7 +208,7 @@ We opened the Networkwalks Hash Calculator in our web browser.
 
 ---
 
-![2_step_2.png](/screenshots/2_step_2.png)
+![](https://github.com/nuzhatakbar009-debug/NETWORKWALKS-B084-WK-3-PM1-2-Password-Cracking/blob/main/Screenshot%2013.png)
 
 ---
 
