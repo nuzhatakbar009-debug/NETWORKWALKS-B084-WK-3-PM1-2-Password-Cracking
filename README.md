@@ -86,8 +86,21 @@ The executable file **john.exe** is located in the run folder:
 
 
 ---
+## 👣 Step 3
 
+We downloaded the locked pdf files from the Networkwalks project's Google Drive link. The downloaded files are available in **`/downloads`**.
 
+---
+
+### Getting the hash of PDF1
+
+We open the hash website (Online HashCrack) in a browser.
+
+We uploaded the file `/downloads/My Locked PDF1.pdf` and got its hash. We copied the hash and saved in the text file `/output_files/hash1.txt`. 
+
+---
+
+![1_step_3.png](/screenshots/1_step_3.png)
 ---
 
 # 🔓 PM2 - Password Cracking with Networkwalks Tools
