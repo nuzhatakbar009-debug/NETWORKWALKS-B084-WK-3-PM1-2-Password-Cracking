@@ -77,6 +77,21 @@ The captured flag is **`nw{networkwalks_flag_260821_1}`**.
 
 ---
 
+We unzipped both downloaded JTR files.
+
+We run the setup file of Johnny and installed it. We launched Jonny and set up the John The Ripper executable.
+
+The executable file **john.exe** is located in the run folder: 
+
+````text
+/john-1.9.0-jumbo-1-win64/run/john.exe
+````
+
+---
+
+![1_step_2.png](/screenshots/1_step_2.png)
+
+---
 ![1_flag3.png](/screenshots/1_falg3.png)
 
 ---
