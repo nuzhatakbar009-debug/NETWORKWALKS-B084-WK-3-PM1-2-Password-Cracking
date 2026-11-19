@@ -218,8 +218,8 @@ We uploaded the downloaded locked PDF file to the Hash Calculator. And we got th
 
 ---
 
-![2_step_3.png](/screenshots/2_step_3.png)
-
+![](https://github.com/nuzhatakbar009-debug/NETWORKWALKS-B084-WK-3-PM1-2-Password-Cracking/blob/main/Screenshot%2014.png)
+https://github.com/nuzhatakbar009-debug/NETWORKWALKS-B084-WK-3-PM1-2-Password-Cracking/blob/main/Screenshot%2014.png
 ---
 
 ## 👣 Step 4
