@@ -325,7 +325,7 @@ This project is intended strictly for education purposes only.
 
 # 👤 Author
 
-Nuzhat Shaheen 
+**Nuzhat Shaheen**\
 Cybersecurity  intern Batch( B084)
 
 LinkedIn: [https://www.linkedin.com/in/nuzhat-akbar-a17963289)
