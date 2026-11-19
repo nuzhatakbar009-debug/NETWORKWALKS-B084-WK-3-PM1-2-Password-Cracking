@@ -125,8 +125,8 @@ We exported and saved the password to `/output_files/password_1.txt` and `/outpu
 We opened the encrypted file `/downloads/My Locked PDF1.pdf` and entered the password we got **`good-luck`**.
 
 ---
+![](https://github.com/nuzhatakbar009-debug/NETWORKWALKS-B084-WK-3-PM1-2-Password-Cracking/blob/main/Screenshot%2011.png)
 
-![1_step_6.png](/screenshots/1_step_6.png)
 
 ---
 
