@@ -106,8 +106,7 @@ We uploaded the file `/downloads/My Locked PDF1.pdf` and got its hash. We copied
 We opened Jonny and clicked on **Open password file**. We browsed to the saved *hash1.txt* file and clicked on **Open**.
 
 ---
-
-![1_step_4.png](/screenshots/1_step_4.png)
+![](https://github.com/nuzhatakbar009-debug/NETWORKWALKS-B084-WK-3-PM1-2-Password-Cracking/blob/main/Screenshot%209.png)
 
 ---
 
