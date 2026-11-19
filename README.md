@@ -130,21 +130,14 @@ We opened the encrypted file `/downloads/My Locked PDF1.pdf` and entered the pas
 
 ---
 
-We validated the password and the PDF file opened.
-
----
-
-![1_step_7.png](/screenshots/1_step_7.png)
-
----
 
 ### Captured Flag
 
-The captured flag is **`nw{cybersecurity_flag_captured_2608}`**.
+
 
 ---
 
-![1_flag1.png](/screenshots/1_falg1.png)
+![](https://github.com/nuzhatakbar009-debug/NETWORKWALKS-B084-WK-3-PM1-2-Password-Cracking/blob/main/Screenshot%2011.png)
 
 ---
 
