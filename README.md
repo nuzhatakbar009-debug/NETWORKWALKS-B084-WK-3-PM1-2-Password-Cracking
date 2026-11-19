@@ -244,8 +244,8 @@ We started the attack. The tool tried different passwords until it found the mat
 
 
 ---
+![](https://github.com/nuzhatakbar009-debug/NETWORKWALKS-B084-WK-3-PM1-2-Password-Cracking/blob/main/screenshot-3.png)
 
-![2_flag1.png](/screenshots/2_falg1.png)
 
 ---
 
@@ -320,8 +320,8 @@ This project is intended strictly for education purposes only.
 
 # 👤 Author
 
-**AZIAGBEDO KOKOU SODJINE**\
-Cybersecurity Professional B084
+**Nuzhat Shaheen **\
+Cybersecurity  intern Batch( B084)
 
 LinkedIn: https://www.linkedin.com/in/kokou-sodjin%C3%A8-aziagbedo-434b2949
 
@@ -329,4 +329,4 @@ LinkedIn: https://www.linkedin.com/in/kokou-sodjin%C3%A8-aziagbedo-434b2949
 
 ## 📌 Project Information
 
-**Program Name:** Cybersecurity at Networkwalks | **Week:** 03 | **Project:** Password Hacking With JTR & Networkwalks Tools | **Repository:** GitHub
+**Program Name:** Cybersecurity at Networkwalks | **Week:** 03 | **Project:** Password Hacking With JTR & Networkwalks Tools 
