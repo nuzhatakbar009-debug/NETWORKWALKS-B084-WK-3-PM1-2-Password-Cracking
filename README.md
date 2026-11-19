@@ -325,13 +325,14 @@ This project is intended strictly for education purposes only.
 
 # 👤 Author
 
-**Nuzhat Shaheen **\
+Nuzhat Shaheen 
 Cybersecurity  intern Batch( B084)
 
-LinkedIn: https://www.linkedin.com/in/kokou-sodjin%C3%A8-aziagbedo-434b2949
+LinkedIn: [https://www.linkedin.com/in/nuzhat-akbar-a17963289)
 
 ---
 
 ## 📌 Project Information
 
-**Program Name:** Cybersecurity at Networkwalks | **Week:** 03 | **Project:** Password Hacking With JTR & Networkwalks Tools 
+**Program Name:** Cybersecurity  Internship Program at Networkwalks |**Week:** 03 | **Project:**
+Password Hacking With JTR & Networkwalks Tools 
