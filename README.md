@@ -113,8 +113,8 @@ We opened Jonny and clicked on **Open password file**. We browsed to the saved *
 We clicked on **Start new attack**. The PDF file password was cracked.
 
 ---
+![](https://github.com/nuzhatakbar009-debug/NETWORKWALKS-B084-WK-3-PM1-2-Password-Cracking/blob/main/Screenshot%2010.png)
 
-![1_step_5.png](/screenshots/1_step_5.png)
 
 ---
 
