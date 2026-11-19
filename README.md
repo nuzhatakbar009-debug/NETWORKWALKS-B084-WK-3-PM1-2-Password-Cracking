@@ -233,7 +233,7 @@ We started the attack. The tool tried different passwords until it found the mat
 
 ---
 
-![2_step_7.png](/screenshots/2_step_7.png)
+![](https://github.com/nuzhatakbar009-debug/NETWORKWALKS-B084-WK-3-PM1-2-Password-Cracking/blob/main/screenshot-4.png)
 
 ---
 
