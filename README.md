@@ -219,8 +219,7 @@ We uploaded the downloaded locked PDF file to the Hash Calculator. And we got th
 ---
 
 ![](https://github.com/nuzhatakbar009-debug/NETWORKWALKS-B084-WK-3-PM1-2-Password-Cracking/blob/main/Screenshot%2014.png)
-https://github.com/nuzhatakbar009-debug/NETWORKWALKS-B084-WK-3-PM1-2-Password-Cracking/blob/main/Screenshot%2014.png
----
+
 
 ## 👣 Step 4
 
@@ -229,26 +228,6 @@ We copied the hash value given by the Networkwalks Hash Calculator tool.
 ---
 
 ## 👣 Step 5
-
-We opened the Networkwalks Password Cracker in your web browser.
-
----
-
-![2_step_5.png](/screenshots/2_step_5.png)
-
----
-
-## 👣 Step 6
-
-We pasted the hash value in the Password Cracker.
-
----
-
-![2_step_6.png](/screenshots/2_step_6.png)
-
----
-
-## 👣 Step 7
 
 We started the attack. The tool tried different passwords until it found the match. The cracked password was shown on the screen.
 
