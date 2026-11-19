@@ -197,8 +197,8 @@ The PM2's objective is to crack the password of the attached PDF file "My Locked
 We downloaded the encrypted PDF file **`My Locked PDF1 (for NW Tools Lab WK3-PM2).pdf`** to our laptop from the Networkwalks project's Google Drive link. The downloaded file is available in **`/downloads/`**
 
 ---
+![](https://github.com/nuzhatakbar009-debug/NETWORKWALKS-B084-WK-3-PM1-2-Password-Cracking/blob/main/Screenshot%2012.png)
 
-![2_step_1.png](/screenshots/2_step_1.png)
 
 ---
 
