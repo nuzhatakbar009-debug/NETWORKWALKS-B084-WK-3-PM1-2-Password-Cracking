@@ -68,7 +68,7 @@ The PM1's objective is to crack the password of attached PDF files using JTR JOH
 We downloaded John the Ripper (JTR) JOHN and Johnny GUI from the official websites on our windows PC.
 
 
-
+![](https://github.com/nuzhatakbar009-debug/NETWORKWALKS-B084-WK-1PMX-WIRESHARK-SOC-ANALYST-LABS/blob/main/Lab%203%20Result%20-%20Nuzhat.png)
 ---
 
 ### Captured Flag
