@@ -69,7 +69,7 @@ We downloaded John the Ripper (JTR) JOHN and Johnny GUI from the official websit
 
 ---
 
-![1_step_1.png](/https://github.com/nuzhatakbar009-debug/NETWORKWALKS-B084-WK-3-PM1-2-Password-Cracking/blob/main/Screenshot%206.png)
+!(/https://github.com/nuzhatakbar009-debug/NETWORKWALKS-B084-WK-3-PM1-2-Password-Cracking/blob/main/Screenshot%206.png)
 
 ---
 
